@@ -12,3 +12,7 @@ else
 {
     Console.WriteLine($"Второе число {number_2} больше, чем первое число {number_1}");
 }
+if (number_1==number_2)
+{
+    Console.WriteLine($"Числа равны: {number_1} = {number_2}");
+}
